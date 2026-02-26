@@ -1,0 +1,10 @@
+REQUISITOS FUNCIONAIS
+- Permitir Login de Usuário
+- Fazer Pedido
+- Processar Pagamento
+- Agendar Coleta
+
+
+REQUISITOS NÃO FUNCIONAIS
+- App Responsável
+- Criptografia de Dados
