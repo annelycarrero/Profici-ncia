@@ -1,0 +1,22 @@
+/app-lavanderia
+ /docs
+   ─ requisitos.md
+   ─ casos_de_uso.md
+   ─ arquitetura.md
+   ─ plano_de_testes.md
+   ─ backlog.md
+
+ /design
+  ─ prototipos.fig
+  ─ identidade_visual/
+
+/src
+  ─ frontend/
+  ─ backend/
+
+ /tests
+  ─ testes_unitarios/
+  ─ testes_integracao/
+
+README.md
+ ─ .gitignore
