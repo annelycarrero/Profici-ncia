@@ -1,0 +1,9 @@
+Caso de Teste      Resultado Esperado 
+Cadastro válido - Usuário cadastrado 
+Login correto - Login realizado 
+Login inválido - Mensagem de erro 
+Solicitar coleta - Pedido criado 
+Acompanhar pedido - Status exibido 
+
+
+Critérios de aceitação: Sistema funcional, sem erros críticos e com boa usabilidade.
